@@ -1,0 +1,139 @@
+[
+  [
+    {
+      "jautājums": "Vai vēlaties lietotājam draudzīgāku vai vairāk pielāgotu?",
+      "atbildes":
+      [
+        {"Lietotājam draudzīgums - man vienkārši nav laika vai prasmju ienirt dziļi OS." : 1},
+        {"Pielāgošana - man patīk laba mācīšanās līkne un iespēja pielāgot OS pēc savas gaumes." : 10},
+        {"Nav priekšroka": 0}
+      ]
+    },
+    {
+      "jautājums": "Vai vēlaties stilu vai neapstrādātu performanci?",
+      "atbildes":
+      [
+        {"Es dodu priekšroku veiktspējai! Es pērku dārgu mašīnu, man vajag katru iespējamo veiktspējas unci, pat ja mašīna izskatās slikta!" : 10},
+        {"Stils ir daudz svarīgāks! Es katru dienu izmantoju savu mašīnu! Tam ir jāizskatās jauki, pat ja tiek upurēta veiktspēja!" : 1},
+        {"Nav priekšroka": 0}
+      ]
+    },
+    {
+      "jautājums": "Vai dodat priekšroku bloķētai vai atvērtai ekosistēmai?",
+      "atbildes":
+      [
+        {"Atvērtā ekosistēma! Man patīk, ja man ir vairāk iespēju un lielāka brīvība, ko dod vairāk izvēles iespēju!" : 10},
+        {"Slēgta ekosistēma! Ja uzņēmumam ir pilnīga aparatūras un programmatūras kontrole, patērētājs gūst labumu no tā izrietošās integrācijas." : 1},
+        {"Nav priekšroka": 0}
+      ]
+    },
+    {
+      "jautājums": "Dārgāka + lielāka uzticamība vai lētāka + mazāka uzticamība?",
+      "atbildes":
+      [
+        {"Lētāk! Es gribu tikai labākos priekšmeti, pat ja kaut kas ticams." : 10},
+        {"Dārgāk! Man ir vērts maksāt vairāk iepriekš, lai man vēlāk nebūtu jāmaksā vairāk naudas." : 1},
+        {"Nav priekšroka": 0}
+      ]
+    },
+    {
+      "jautājums": "Apple vai Microsoft?",
+      "atbildes":
+      [
+        {"Apple": 1},
+        {"Microsoft": 10},
+        {"Nav priekšroka": 0}
+      ]
+    },
+    {
+      "jautājums": "Arm vai Intel / AMD (x86)?",
+      "atbildes":
+      [
+        {"x86! Intel un AMD jau ilgu laiku ražo procesorus, un viņi zina, kā to izdarīt labi!" : 10},
+        {"Apbruņojiet visu ceļu! Energoefektīvāks, ilgāks akumulatora darbības laiks." : 1},
+        {"Nav priekšroka": 0}
+      ]
+    },
+    {
+      "jautājums": "Vai jums patīk spēlēt?",
+      "atbildes":
+      [
+        {"Spēles man nav svarīgas. Es produktivitātes labad izmantoju datoru." : 1},
+        {"Jā! Man patīk spēlēt!" : 10},
+        {"Nav priekšroka": 0}
+      ]
+    },
+    {
+      "jautājums": "Vai iebūvētā drošība ir svarīga funkcija jums?",
+      "atbildes":
+      [
+        {"Noteikti. Es neuzticos trešo pušu antivīrusu un šifrēšanas programmatūrai." : 1},
+        {"Nav īsti. Jebkurā gadījumā es instalēju savu programmatūru papildu aizsardzībai." : 10},
+        {"Nav priekšroka": 0}
+      ]
+    },
+    {
+      "jautājums": "Vai jums ir nepieciešams / vēlaties, lai datorā būtu skārienekrāns?",
+      "atbildes":
+      [
+        {"Jā! Es ļoti gribētu ritināt ar pirkstu, nevis pastāvīgi uz skārienpaliktņa." : 10},
+        {"Skārienekrāni man nav svarīgi. Es izmantoju tikai skārienpaliktni vai peli." : 1},
+        {"Nav priekšroka": 0}
+      ]
+    },
+    {
+      "question": "Vai jums patīk vairāk iebūvētu lietotņu?",
+      "atbildes":
+      [
+        {"Es daru. Es gribētu, lai lietotnes būtu iepriekš instalētas, nevis mēģinu meklēt alternatīvas, kas parasti maksā naudu." : 1},
+        {"Nav īsti. Es vienmēr galu galā pērku alternatīvas, jo tās parasti ir labākas nekā iepriekš instalētās lietojumprogrammas." : 10},
+        {"Nav priekšroka": 0}
+      ]
+    },
+    {
+      "question": "Vai abu operētājsistēmu darbināšana ir nepieciešama?",
+      "atbildes":
+      [
+        {"Tā nav nepieciešamība, bet man šī iespēja patīk." : 1},
+        {"Nē. Man vajag tikai vienu operētājsistēmu." : 10},
+        {"Nav priekšroka": 0}
+      ]
+    },
+    {
+      "jautājums": "Vai vēlaties mašīnu, kuru lietotājs var uzlabot vairāk?",
+      "atbildes":
+      [
+        {"Nav īsti. Es tikai nopirkšu citu sistēmu nākamajos 4-6 gados": 1},
+        {"Noteikti. Ilgtermiņā ir lētāk pašiem uzlabot savu mašīnu": 10},
+        {"Nav priekšroka": 0}
+      ]
+    },
+    {
+      "jautājums": "Vai jums ir iPhone vai Android tālrunis?",
+      "atbildes":
+      [
+        {"Android" : 10},
+        {"iPhone" : 1},
+        {"Nav priekšroka": 0}
+      ]
+    },
+    {
+      "jautājums": "Vai jums ir iepriekšēja pieredze kādā no operētājsistēmām?",
+      "atbildes":
+      [
+        {"Jā. Esmu pazīstams ar Windows." : 10},
+        {"Jā. Esmu pazīstams ar MacOS." : 1},
+        {"Nav priekšroka": 0}
+      ]
+    },
+    {
+      "jautājums": "NVIDIA / AMD vai AMD / Apple Silicon?",
+      "atbildes":
+      [
+        {"AMD / Apple Silicon" : 1},
+        {"NVIDIA / AMD" : 10},
+        {"Nav priekšroka": 0}
+      ]
+    }
+  ]
+]

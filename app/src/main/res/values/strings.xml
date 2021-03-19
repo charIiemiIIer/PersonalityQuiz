@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PersonalityQuiz</string>
+    <string name="TODO"> name="questionone">Do you prefer user-friendliness or more customization?</string>
+</resources>

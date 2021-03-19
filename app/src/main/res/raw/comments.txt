@@ -1,0 +1,14 @@
+opening the raw resource and reading the file as a string
+
+parsing the string into our custom objects using Gson
+
+use the parsing between collection, list, or array section
+
+https://medium.com/@hissain.khan/parsing-with-google-gson-library-in-android-kotlin-7920e26f5520
+
+gson is a google library that takes a jason file that converts it into an object in one line of code
+
+to actually convert it, there are methods from the json object class
+
+a typetoken is a built in helper class in json
+

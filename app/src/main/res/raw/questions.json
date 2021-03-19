@@ -1,0 +1,275 @@
+[
+  {
+    "question": "Do you prefer user-friendliness or more customization?",
+    "answers":
+     [
+       {"answer" : "User-friendliness - I just don't have the time or skill to dive deep into the OS.",
+         "mac": 1,
+         "pc": 0,
+         "neither" : 0
+       },
+       {"answer" : "Customization - I love a good learning curve and being able to customize the OS to my liking.",
+         "mac": 0,
+         "pc": 1,
+         "neither" : 0
+       },
+       {"answer" : "No preference",
+         "mac": 0,
+         "pc": 0,
+         "neither" : 1
+       }
+     ]
+  },
+  {
+    "question": "Do you prefer style or raw performace?",
+    "answers":
+    [
+      {"answer" : "Style is way more important! I use my machine every day! It has to look nice, even if performance is sacrificed!",
+        "mac": 1,
+        "pc": 0,
+        "neither" : 0},
+      {"answer" : "I prefer performance! I'm buying an expensive machine, I need every ounce of performance possible, even if the machine looks bad!",
+        "mac": 0,
+        "pc": 1,
+        "neither" : 0},
+      {"answer" : "No preference",
+        "mac": 0,
+        "pc": 0,
+        "neither" : 1}
+    ]
+  },
+  {
+    "question": "Do you prefer a locked ecosystem or an open ecosystem?",
+    "answers":
+    [
+      {"answer" : "Closed ecosystem! When a company has full control of the hardware and software, the consumer benefits from the integration that comes from that.",
+        "mac": 1,
+        "pc": 0,
+        "neither" : 0},
+      {"answer" : "Open ecosystem! I like having more options and the freedom that comes from more choices!",
+        "mac": 0,
+        "pc": 1,
+        "neither" : 0},
+      {"answer" : "No preference",
+        "mac": 0,
+        "pc": 0,
+        "neither" : 1}
+    ]
+  },
+  {
+    "question": "More expensive + more reliability or less expensive + less reliability?",
+    "answers":
+    [
+      {"answer" : "More expensive! It is worth it to me to pay more upfront so I don't have to pay more money later on.",
+        "mac": 1,
+        "pc": 0,
+        "neither" : 0},
+      {"answer" : "Less expensive! I only want the best bang-for-your-buck items, even if some reliability is sarificed.",
+        "mac": 0,
+        "pc": 1,
+        "neither" : 0},
+      {"answer" : "No preference",
+        "mac": 0,
+        "pc": 0,
+        "neither" : 1}
+    ]
+  },
+  {
+    "question": "Apple or Microsoft?",
+    "answers":
+    [
+      {"answer" : "Apple",
+        "mac": 1,
+        "pc": 0,
+        "neither" : 0},
+      {"answer" : "Microsoft",
+        "mac": 0,
+        "pc": 1,
+        "neither" : 0},
+      {"answer" : "No preference",
+        "mac": 0,
+        "pc": 0,
+        "neither" : 1}
+    ]
+  },
+  {
+    "question": "Arm or Intel/AMD (x86)?",
+    "answers":
+    [
+      {"answer" : "Arm all the way! More power-efficient, more battery life, what's not to love?",
+        "mac": 1,
+        "pc": 0,
+        "neither" : 0},
+      {"answer" : "x86! Intel and AMD have been making CPUs for a long time, and they know how to do it well!",
+        "mac": 0,
+        "pc": 1,
+        "neither" : 0},
+      {"answer" : "No preference",
+        "mac": 0,
+        "pc": 0,
+        "neither" : 1}
+    ]
+  },
+  {
+    "question": "Do you like gaming?",
+    "answers":
+    [
+      {"answer" : "Gaming isn't important to me. I prefer using my computer for productivity.",
+        "mac": 1,
+        "pc": 0,
+        "neither" : 0},
+      {"answer" : "Yes! I love gaming!",
+        "mac": 0,
+        "pc": 1,
+        "neither" : 0},
+      {"answer" : "No preference.",
+        "mac": 0,
+        "pc": 0,
+        "neither" : 1}
+    ]
+  },
+  {
+    "question": "Is built-in security an important feature for you?",
+    "answers":
+    [
+      {"answer" : "Definitely. I don't trust third-party antivirus and encryption software.",
+        "mac": 1,
+        "pc": 0,
+        "neither" : 0},
+      {"answer" : "Not really. I install my own software for extra protection anyways.",
+        "mac": 0,
+        "pc": 1,
+        "neither" : 0},
+      {"answer" : "No preference.",
+        "mac": 0,
+        "pc": 0,
+        "neither" : 1}
+    ]
+  },
+  {
+    "question": "Do you need/want a touchscreen on your computer?",
+    "answers":
+    [
+      {"answer" : "Touchscreens are not important to me. I only use a trackpad or mouse.",
+        "mac": 1,
+        "pc": 0,
+        "neither" : 0},
+      {"answer" : "Yes! I much prefer scrolling with my finger, rather than on a trackpad constantly.",
+        "mac": 0,
+        "pc": 1,
+        "neither" : 0},
+      {"answer" : "No preference.",
+        "mac": 0,
+        "pc": 0,
+        "neither" : 1}
+    ]
+  },
+  {
+    "question": "Do you like more built-in apps?",
+    "answers":
+    [
+      {"answer" : "I do. I prefer having apps pre-installed rather than trying to hunt down alternatives which usually cost money.",
+        "mac": 1,
+        "pc": 0,
+        "neither" : 0},
+      {"answer" : "Not really. I always end up buying alternatives anyways because they are generally better than the pre-installed applications.",
+        "mac": 0,
+        "pc": 1,
+        "neither" : 0},
+      {"answer" : "No preference.",
+        "mac": 0,
+        "pc": 0,
+        "neither" : 1}
+    ]
+  },
+  {
+    "question": "Is running both operating systems a necessity?",
+    "answers":
+    [
+      {"answer" : "Its not a necessity, but I like the option.",
+        "mac": 1,
+        "pc": 0,
+        "neither" : 0},
+      {"answer" : "No. I just need one operating system.",
+        "mac": 0,
+        "pc": 1,
+        "neither" : 0},
+      {"answer" : "No preference.",
+        "mac": 0,
+        "pc": 0,
+        "neither" : 1}
+    ]
+  },
+  {
+    "question": "Do you want a machine that is more user-upgradable?",
+    "answers":
+    [
+      {"answer" : "Not really. I'll just buy another system in the next 4-6 years",
+        "mac": 1,
+        "pc": 0,
+        "neither" : 0},
+      {"answer" : "For sure. It is cheaper in the long run to upgrade your machine yourself",
+        "mac": 0,
+        "pc": 1,
+        "neither" : 0},
+      {"answer" : "No preference.",
+        "mac": 0,
+        "pc": 0,
+        "neither" : 1}
+    ]
+  },
+  {
+    "question": "Do you have an iPhone or an Android phone?",
+    "answers":
+    [
+      {"answer" : "iPhone",
+        "mac": 1,
+        "pc": 0,
+        "neither" : 0},
+      {"answer" : "Android",
+        "mac": 0,
+        "pc": 1,
+        "neither" : 0},
+      {"answer" : "No preference.",
+        "mac": 0,
+        "pc": 0,
+        "neither" : 1}
+    ]
+  },
+  {
+    "question": "Do you have any prior experience to one of the operating systems?",
+    "answers":
+    [
+      {"answer" : "Yes. I am familiar with MacOS.",
+        "mac": 1,
+        "pc": 0,
+        "neither" : 0},
+      {"answer" : "Yes. I am familiar with Windows.",
+        "mac": 0,
+        "pc": 1,
+        "neither" : 0},
+      {"answer" : "No.",
+        "mac": 0,
+        "pc": 0,
+        "neither" : 1}
+    ]
+  },
+  {
+    "question": "NVIDIA/AMD or AMD/Apple Silicon?",
+    "answers":
+    [
+      {"answer" : "AMD/Apple Silicon.",
+        "mac": 1,
+        "pc": 0,
+        "neither" : 0},
+      {"answer" : "NVIDIA/AMD.",
+        "mac": 0,
+        "pc": 1,
+        "neither" : 0},
+      {"answer" : "No preference.",
+        "mac": 0,
+        "pc": 0,
+        "neither" : 1}
+    ]
+  }
+]
